@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gm-zui-j-a3784.github.io/page-hub/sitemap.xml
